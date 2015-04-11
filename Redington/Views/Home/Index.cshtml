@@ -1,0 +1,73 @@
+﻿@model Redington.Models.IndexViewModel
+
+@{
+    ViewBag.Title = "Probability Calculator";
+}
+
+<div class="jumbotron">
+    <h1>Probability Calculator</h1>
+    <div class="container">
+        @using ( Html.BeginForm( "", "", FormMethod.Post, new { id = "myForm", name = "myForm" } ) )
+        {
+            @Html.AntiForgeryToken()
+            <div class="form-horizontal">
+                @Html.ValidationSummary( true )
+                <div class="form-group">
+                    <div class="row">
+                        <div class="probabilityLabel col-xs-12">
+                            @Html.Label( "Probability one", new { @class = "col-xs-12" } )
+                        </div>
+                        <div class="probabilityTextBox col-xs-12">
+                            @Html.TextBoxFor( m => m.ProbabilityOne, new { @class = "col-xs-12" } )
+                        </div>
+                        <div class="probabilityError col-xs-12">
+                            @Html.ValidationMessageFor( m => m.ProbabilityOne )
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="probabilityLabel col-xs-12">
+                            @Html.Label( "Probability two", new { @class = "col-xs-12" } )
+                        </div>
+                        <div class="probabilityTextBox col-xs-12">
+                            @Html.TextBoxFor( m => m.ProbabilityTwo, new { @class = "col-xs-12" } )
+                        </div>
+                        <div class="probabilityError col-xs-12">
+                            @Html.ValidationMessageFor( m => m.ProbabilityTwo )
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="probabilityOptionLabel col-xs-12">
+                            @Html.Label( "Probability function", new { @class = "col-xs-12" } )
+                        </div>
+                        <div class="probabilityOptionDropdown col-xs-12">
+                            @Html.DropDownListFor( model => model.SelectedOption,
+                  new List<SelectListItem> {
+                       new SelectListItem { Value = "0" , Text = "CombinedWith: P(A)P(B)" },
+                       new SelectListItem { Value = "1" , Text = "Either: P(A) + P(B) - P(A)P(B)" }
+                    },
+                  new { @class = "dropdownOptions col-xs-12" } )
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-12 btnSubmit">
+                        <button type="button" id="btnSubmit" onclick="ValidateForm();" class="btn btn-lg btn-primary">
+                            Calculate
+                        </button>
+                        <button type="button" id="btnClear" onclick="ClearForm();" class="btn btn-lg btn-default">
+                            Clear
+                        </button>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="row">
+                        <div class="result col-xs-12" style="display: none">
+                            @Html.Label( "Calculation result", new { @class = "col-xs-12" } )
+                            <div class="labelResult"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

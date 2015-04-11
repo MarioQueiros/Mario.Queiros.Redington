@@ -1,0 +1,51 @@
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Redington.dll.config
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Redington.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Redington.pdb
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Antlr3.Runtime.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Newtonsoft.Json.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Helpers.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Mvc.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Optimization.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Razor.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Deployment.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Razor.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\WebGrease.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Helpers.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Mvc.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Optimization.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.Razor.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Deployment.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Razor.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Antlr3.Runtime.pdb
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\bin\Newtonsoft.Json.xml
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\obj\Debug\Redington.csprojResolveAssemblyReference.cache
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\obj\Debug\Redington.dll
+c:\users\mpapq\documents\visual studio 2013\Projects\Mario.Queiros.Redington\Redington\obj\Debug\Redington.pdb
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Redington.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Redington.pdb
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\WebGrease.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\obj\Debug\Redington.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\obj\Debug\Redington.dll
+C:\Users\Admin\Documents\Mario.Queiros.Redington\Redington\obj\Debug\Redington.pdb

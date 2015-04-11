@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<div class="jumbotron">
+    <h1>@ViewBag.Title</h1>
+    <p>Hello,</p>
+    <p>
+        My name is Mário Queirós and I'm applying for a C# developer role.
+    </p>
+    <p>
+        This is my Redington Code Mini Project.
+    </p>
+    <p>
+        I used the ASP.NET MVC template as a base project to develop this test.
+    </p>
+    <p>
+        The application is a client side app, using Javascript (Jquery) to manipulate the calculator.
+        The calculator comprises two inputs where users can input two probabilities (0 to 1) and also choose between two functions to calculate the probability result.
+    </p>
+    <p>
+        One of the requirements of the app was the ability to save the results for further analysis.
+        This was achieved by using an AJAX request to a MVC action on the Home controller.
+        The method requires as input parameter the probability one, probability two, the selected function method and also the result of the calculation.
+        This MVC method also added a GUID, date and time to a created object to be saved into the session.
+    </p>
+    <p>
+        Later on, the method can be changed, allowing the data to be saved on the database.
+    </p>
+    <p>
+        If there is any problem with the service provider, the consultants can still use the calculator. 
+        It means that the service layer is separated from the front-end.
+        The downside is that the calculation results are not being saved for later analysis.
+    </p>
+    <p>
+        The entire application is responsive to any device. This is achieved by using the bootstrap framework.
+    </p>
+</div>
